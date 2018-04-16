@@ -1,0 +1,16 @@
+body
+{
+background-image:url('cool.jpg');
+background-repeat:no-repeat;
+background-size: 1300px 900px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+	position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+	font-size: 450%;
+}
